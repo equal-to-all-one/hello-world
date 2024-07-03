@@ -1,1 +1,1 @@
-#include<stadio.h>
+#include<cmath>
